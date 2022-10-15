@@ -1,3 +1,7 @@
+//Problem Statement
+/*There are  paint n boards of length {l1,l2,...ln} and there are k painters available .Each painter takes 1 unit of time to paint 1 unit of the board .
+The problem is to find the minimum time to get this job done under the constraints that any painter will only paint continuous section of boards.*/
+
 #include<iostream>
 using namespace std;
 
